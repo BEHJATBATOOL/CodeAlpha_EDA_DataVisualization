@@ -1,14 +1,11 @@
-# CodeAlpha_EDA_DataVisualization
+EDA_DataVisualization
 CodeAlpha Data Analytics Internship – Exploratory Data Analysis and Data Visualization using Python.
-# CodeAlpha EDA and Data Visualization
+#  EDA and Data Visualization
 
-## Internship Project
-
-This project was completed as part of the CodeAlpha Data Analytics Internship.
 
 ## Tasks Completed
 
-### Task 2: Exploratory Data Analysis (EDA)
+### Task : Exploratory Data Analysis (EDA)
 
 The dataset was explored to understand its structure, data types, missing values, duplicate records, sales patterns, and important business insights.
 
